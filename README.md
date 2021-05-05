@@ -4,6 +4,8 @@ I am a mechanism designer in complex systems and HCI. I research and design comp
 
 I was a cognitive scientist by training, I did research in psychology, design research, social computing, and complexity science. Come chat with me about incentive mechanisims, coordination mechanisms and complexity science.
 
+In my downtime, I freedive around the world and read books about philosophy of science, social systems, and build communities. checkout the [326 books](https://docs.google.com/spreadsheets/d/1yIZC4qgqZsjO2IJScfjqWhjRTj43GKC8VY9TAR-CwPc/edit#gid=0) I curated and higly recommend reading 
+
 ## Academic Research
 
 ## BlogPost
