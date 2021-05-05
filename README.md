@@ -1,29 +1,17 @@
-## Hi! I'm Jiajia
+# Hi! I'm Jiajia
 
-You can use the [editor on GitHub](https://github.com/jiajia20/jiajia20.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a mechaism designer in complex systems and HCI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Papers
 
-### Markdown
+## BlogPost
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Press
 
-```markdown
-Syntax highlighted code block
+![Image](https://i.imgur.com/1WxmYC5.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
