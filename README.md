@@ -8,7 +8,7 @@ I was a cognitive scientist by training, I did research in psychology, design re
 
 ## BlogPost
 1. [How to think systematically as a UX Researcher](https://uxdesign.cc/how-to-think-systematically-as-a-ux-researcher-50f4a7ed2b27) with UX Collective
-2. [How to Attack and Defend Quadratic Funding](https://gitcoin.co/blog/how-to-attack-and-defend-quadratic-funding/)
+2. [How to Attack and Defend Quadratic Funding](https://gitcoin.co/blog/how-to-attack-and-defend-quadratic-funding/) with Gitcoin project
 
 ## Press
 
